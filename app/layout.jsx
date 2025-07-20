@@ -7,7 +7,7 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata = {
   title: "LegalAI FIR Assistant",
   description: "Your intelligent legal companion for FIR assistance and legal guidance",
-  generator: "v0.dev",
+ 
 }
 
 export default function RootLayout({ children }) {
